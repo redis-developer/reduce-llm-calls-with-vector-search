@@ -1,0 +1,8 @@
+.DS_Store
+.idea/copilot.data.migration.agent.xml
+.idea/copilot.data.migration.ask.xml
+.idea/copilot.data.migration.ask2agent.xml
+.idea/copilot.data.migration.edit.xml
+.idea/vcs.xml
+python/.DS_Store
+python/.env
