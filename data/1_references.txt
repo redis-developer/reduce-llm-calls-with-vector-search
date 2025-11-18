@@ -1,3 +1,13 @@
+AI for beginners
+what is ChatGPT
+how LLMs work
+AI and privacy
+jobs and AI
+AI for writing
+AI and creativity
+using AI to code
+training an AI model
+how AI helps devs
 Just realized that attention mechanisms in transformers are basically learning to focus like humans do when reading
 My grandmother can now video call her grandkids thanks to real-time translation AI and honestly it makes me emotional
 The fact that GPT can write code but still struggles with basic arithmetic tells you everything about how these models work
@@ -252,16 +262,6 @@ AI in everyday life
 learning how AI works
 how to use AI tools
 best AI tools right now
-AI for beginners
-what is ChatGPT
-how LLMs work
-AI and privacy
-jobs and AI
-AI for writing
-AI and creativity
-using AI to code
-training an AI model
-how AI helps devs
 text to image AI
 why AI matters
 AI and the future
